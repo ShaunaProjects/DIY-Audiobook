@@ -1,0 +1,4 @@
+pdfminer.six==20211012
+pygame==2.1.2
+PyPDF4==1.27.0
+pyttsx3==2.90
